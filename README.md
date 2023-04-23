@@ -9,4 +9,4 @@
   * How do I approach a problem as a computer scientist?
     * Solving a problem as a computer scientist begins with having a deep understanding of the problem that you are trying to solve. After educating yourself, you can then break the problem down into smaller more managable sections. Then, one by one, complete each section of the problem testing each solution along the way. After completing the sections of the bigger problem, you refine the solution based on feedback if necessary. Finally, communicate the solution to others if possible.
   * What are my ethical responsibilities to the end user and the organization?
-    * My responsibilites to the end user are to produce honest, unbiased, secure, and non-destructive software. 
+    * My responsibilites to the end user are to produce honest, unbiased, secure, and non-destructive software while adhering to ethical laws and regulations. 
